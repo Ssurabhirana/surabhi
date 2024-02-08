@@ -48,9 +48,32 @@ Toy Series*
 
 ### Ordered List
 
-1. First item
-2. Second item
-3. Third item
+1. category-icon
+2. Bags & Accessories
+3. category-icon
+4. Consumables
+5. category-icon
+6. Cosmetics
+7. category-icon
+8. Decoration Materials
+9. category-icon
+10. Electronics & Electrical Appliances
+11. category-icon
+12. Food & Beverages
+13. category-icon
+14. General Category
+15. category-icon
+16. Life Department
+17. category-icon
+18. Makeup Tools
+19. category-icon
+20. Scented Products
+21. category-icon
+22. Skin Care & Cleansing Products
+23. category-icon
+24. Textile
+25. category-icon
+26. Toy Series
 
 ### Unordered List
 
