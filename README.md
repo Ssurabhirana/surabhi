@@ -1,6 +1,6 @@
 # surabhi
 #Kathamndu University - School of Management 
-## Markdown Cheat Sheet
+#Markdown Cheat Sheet
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
